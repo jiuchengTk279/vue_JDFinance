@@ -62,10 +62,10 @@ export default {
 
   .slider {
     margin-top: 120px;
-    img {
-      width: 100%;
-      height: 100%;
-    }
+    // img {
+    //   width: 100%;
+    //   height: 100%;
+    // }
   }
   .list {
     @include list(row);
